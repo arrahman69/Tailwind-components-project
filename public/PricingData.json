@@ -1,0 +1,46 @@
+{
+  "pricingPlans": [
+    {
+      "name": "Basic",
+      "priceMonthly": "$29.99/month",
+      "price6Month": "$159.99/6 months",
+      "priceYearly": "$299/year",
+      "features": [
+        "Access to gym equipment",
+        "Locker room & shower access",
+        "1 guest pass per month",
+        "Free fitness assessment",
+        "Standard support"
+      ]
+    },
+    {
+      "name": "Standard",
+      "priceMonthly": "$49.99/month",
+      "price6Month": "$269.99/6 months",
+      "priceYearly": "$499/year",
+      "features": [
+        "All Basic features",
+        "Unlimited group fitness classes",
+        "Sauna & steam room access",
+        "5 guest passes per month",
+        "Discount on personal training",
+        "Priority support"
+      ]
+    },
+    {
+      "name": "Premium",
+      "priceMonthly": "$79.99/month",
+      "price6Month": "$429.99/6 months",
+      "priceYearly": "$799/year",
+      "features": [
+        "All Standard features",
+        "Unlimited personal training sessions",
+        "Nutrition consultation",
+        "Exclusive VIP lounge access",
+        "Priority class booking",
+        "Free gym merchandise kit",
+        "24/7 premium support"
+      ]
+    }
+  ]
+}
